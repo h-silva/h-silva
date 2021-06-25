@@ -14,5 +14,5 @@ Sou um jovem desenvolvedor que é apaixonado por esportes e tem sede de ganhar. 
   
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/h-silva)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitoraugusto/)](https://www.linkedin.com/in/fagnerpsantos/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/h-silva)](https://github.com/h-silva)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitoraugusto/)](https://www.linkedin.com/in/heitoraugusto/)
