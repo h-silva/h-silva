@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Heitor Augusto</h1>
-<h3 align="center">Trabalho como Desenvolvedor Web na SOLINFTEC - Automação sem Limites.</h3>
+<h3 align="center">Trabalho como Tech Lead na SOLINFTEC - Automação sem Limites.</h3>
 
 ![](https://github-readme-stats.vercel.app/api?count_private=true&username=h-silva&hide=contribs,prs&show_icons=true&theme=chartreuse-dark&locale=pt-br)
 
